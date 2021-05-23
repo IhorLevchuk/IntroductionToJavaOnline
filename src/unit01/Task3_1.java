@@ -1,9 +1,9 @@
 package unit01;
 import java.util.Scanner;
 
-public class Task12 {
+public class Task3_1 {
     private int integer, sum;
-    public Task12(){
+    public Task3_1(){
         System.out.println("Please enter a positive integer");
         input();
     }

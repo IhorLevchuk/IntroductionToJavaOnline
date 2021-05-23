@@ -1,10 +1,10 @@
 package unit01;
 import java.util.Scanner;
 
-public class Task13 {
+public class Task3_2 {
     private int a,b,h;
 
-    public Task13(){
+    public Task3_2(){
         System.out.println("Enter spacing value and step:\n a,b,h");
         input();
     }

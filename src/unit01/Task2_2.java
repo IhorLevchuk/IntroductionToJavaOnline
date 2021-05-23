@@ -1,9 +1,9 @@
 package unit01;
 import java.util.Scanner;
 
-public class Task08 {
+public class Task2_2 {
     private double a,b,c,d;
-    public Task08(){
+    public Task2_2(){
         System.out.println("Enter four numbers:");
         input();
     }

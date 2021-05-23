@@ -1,11 +1,11 @@
 package unit01;
 import java.util.Scanner;
 
-public class Task07 {
+public class Task2_1 {
     private double angle_a,angle_b;
     private boolean triangle,rightTriangle;
 
-    public Task07(){
+    public Task2_1(){
         System.out.println("Enter two corners");
         input();
     }

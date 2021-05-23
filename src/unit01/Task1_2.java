@@ -1,10 +1,10 @@
 package unit01;
 import java.util.Scanner;
 
-public class Task02 {
+public class Task1_2 {
     private int a,b,c;
 
-    public Task02(){
+    public Task1_2(){
         System.out.println("Enter equation parameters");
         input();
     }

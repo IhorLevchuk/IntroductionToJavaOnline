@@ -1,9 +1,9 @@
 package unit01;
 import java.util.Scanner;
 
-public class Task19 {
+public class Task3_8 {
     private String a,b;
-    public Task19(){
+    public Task3_8(){
         System.out.println("Enter x and y:");
         input();
     }

@@ -1,7 +1,7 @@
 package unit01;
-public class Task15 {
+public class Task3_4 {
     private int productionNumbers;
-    public Task15(){
+    public Task3_4(){
         System.out.println("The product of the squares of the first two hundred numbers is:");
         productSquares();
     }

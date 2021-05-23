@@ -1,9 +1,9 @@
 package unit01;
 import java.util.Scanner;
 
-public class Task18 {
+public class Task3_7 {
     private int m,n;
-    public Task18(){
+    public Task3_7(){
         System.out.println("Enter m and n:");
         input();
     }

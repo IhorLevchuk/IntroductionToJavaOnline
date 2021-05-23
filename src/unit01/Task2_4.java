@@ -1,10 +1,10 @@
 package unit01;
 import java.util.Scanner;
 
-public class Task10 {
+public class Task2_4 {
     private int A,B,x,y,z;
 
-    public Task10(){
+    public Task2_4(){
         System.out.println("Enter the dimensions of the rectangular hole A,B and brick dimensions x,y,z");
         input();
     }

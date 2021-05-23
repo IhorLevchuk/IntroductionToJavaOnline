@@ -1,10 +1,10 @@
 package unit01;
 import java.util.Scanner;
 
-public class Task06 {
+public class Task1_6 {
     private double x,y;
 
-    public Task06(){
+    public Task1_6(){
         System.out.println("Enter the coordinates of the points:");
         input();
     }

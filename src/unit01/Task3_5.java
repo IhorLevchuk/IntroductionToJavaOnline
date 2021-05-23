@@ -1,9 +1,9 @@
 package unit01;
 import java.util.Scanner;
 
-public class Task16 {
+public class Task3_5 {
     private double e,sum;
-    public Task16(){
+    public Task3_5(){
         System.out.println("Enter e:");
         input();
         summation();

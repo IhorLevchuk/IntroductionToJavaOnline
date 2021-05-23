@@ -1,7 +1,7 @@
 package unit01;
-public class Task14 {
+public class Task3_3 {
     private int sum;
-    public Task14(){
+    public Task3_3(){
         System.out.println("The sum of the squares of the first hundred numbers is:");
         summation();
     }

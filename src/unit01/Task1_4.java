@@ -2,11 +2,11 @@ package unit01;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Task04 {
+public class Task1_4 {
 
     private double number;
 
-    public Task04(){
+    public Task1_4(){
         System.out.println("Enter format number: nnn.ddd");
         input();
     }

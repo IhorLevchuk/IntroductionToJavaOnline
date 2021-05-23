@@ -1,11 +1,11 @@
 package unit01;
 import java.util.Scanner;
 
-public class Task05 {
+public class Task1_5 {
 
     private int number;
 
-    public Task05(){
+    public Task1_5(){
         System.out.println("Enter a natural number:");
         input();
     }
