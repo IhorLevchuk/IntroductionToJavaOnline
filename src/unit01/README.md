@@ -1,29 +1,16 @@
 # Basics of software code development
 Выбор запускаемого задания осуществляется после запуска метода main класса Tasks.
 
-Линейный программы:
-- L1
-- L2
-- L3
-- L4
-- L5
-- L6
+1. Линейный программы
 
-Ветвления:
-- B1
-- B2
-- B3
-- B4
-- B5
+2. Ветвления
 
-Циклы:
-- C1
-- C2
-- C3
-- C4
-- C5
-- C6
-- C7
-- C8
+3. Циклы
+
+Обозначение задачи: 1.2 
+
+где 1 - Линейный программы
+
+2 - номер задачи
 
 В соответствии с заданиями <a href = "https://github.com/IhorLevchuk/IntroductionToJavaOnline/blob/master/src/practice_tasks/Practice1_Basics_of_software_code_development.pdf">Practice</a>
