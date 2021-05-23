@@ -1,4 +1,4 @@
-# IntroductionToJavaOnline
+# Basics of software code development
 Выбор запускаемого задания осуществляется после запуска метода main класса Tasks.
 
 Линейный программы:
